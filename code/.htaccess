@@ -1,0 +1,6 @@
+RewriteEngine on
+ErrorDocument 404 /redirect.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule .* redirect.php [QSA,L]

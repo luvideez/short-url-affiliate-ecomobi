@@ -1,0 +1,184 @@
+.new-link {
+  margin-right: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .new-link {
+    margin-left: 20px;
+  }
+}
+
+
+
+
+
+.card.error {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.error-icon {
+  font-size: 150px;
+  color: #7e8b98;
+}
+
+.card.error h1 {
+  margin-top: 50px;
+  font-size: 32px;
+  line-height: 1.5em;
+  color: #3c4f63;
+}
+
+.card.error .link {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+
+
+
+
+.list-link {
+  font-size: 14px;
+  color: #8f97ad;
+}
+
+.shortlink {
+  font-size: 18px;
+  margin-bottom: 3px;
+  color: #55607c;
+}
+
+@media screen and (max-width: 600px) {
+  .created {
+    display: none !important;
+  }
+}
+
+
+
+
+
+.input.blue {
+  color: #5082ff;
+}
+
+
+
+#countries .list-container {
+  max-height: 300px;
+}
+
+#countries .list .item .data {
+  border: 0;
+  padding: 7.5px 15px;
+}
+
+#countries .list .item.headings {
+  background: none;
+}
+
+#countries .list .item.headings .data {
+  padding: 15px;
+  padding-top: 0;
+  color: #7b8a9a;
+  font-weight: 700;
+}
+
+
+
+.map {
+  height: 300px;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.map.active {
+  opacity: 1;
+}
+
+
+
+.favicon {
+  vertical-align: middle;
+  margin-right: 5px;
+  height: 20px;
+  width: 20px;
+}
+
+
+
+
+.delete-link {
+  cursor: pointer;
+}
+
+
+.tag {
+  margin-left: 10px;
+}
+
+
+
+
+
+.link-wrapper {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.link-wrapper .input {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+
+.shortname {
+  margin: 20px 0;
+  cursor: text;
+  font-size: 18px;
+  color: #bac5fe;
+}
+
+.shortname input {
+  border: 0;
+  background: none;
+  outline: none;
+  padding: 0;
+  margin: 0;
+  color: #fff;
+  font-size: 18px;
+}
+
+.shortname input::placeholder {
+  color: #e2e6ff;
+}
+
+
+
+.link-wrapper .btn {
+  margin-top: 35px;
+  display: block;
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 18px;
+}
+
+
+
+
+.shortened {
+  display: none;
+  max-width: 600px;
+  margin: 50px auto;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.shortened .link, .shortened-link {
+  color: #fff !important;
+}
+
+.shortened .link {
+  display: block;
+  margin-top: 40px;
+}

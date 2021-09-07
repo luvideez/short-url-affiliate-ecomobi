@@ -1,0 +1,32 @@
+<?php
+/*
+The home page which allows anyone to shorten a link.
+*/
+
+
+//Load Linkity.
+require_once(dirname(__FILE__)."/libs/linkity.php");
+$linkity = new Linkity();
+if($linkity->installing) { exit; }
+
+
+
+//Redirect to admin if homepage isn't allowed.
+if(!$linkity->homepage) { header("Location: ".$linkity->admin->base, true, 302); exit; }
+
+
+
+//Handle link creation.
+if(isset($_GET["url"])) {
+  header("Content-Type: application/json");
+  try {
+    //Check nonce token exists & delete it.
+    $deleted = $linkity->db->delete("nonces", ["token" => $_GET["nonce"]])->rowCount();
+    if(!$deleted) {
+      http_response_code(400);
+      echo json_encode(["error" => "Please refresh this page"]);
+      exit;
+    }
+
+    //Create link & send it back with a new token.
+    $aff= 'https://t.ecomobi.com/?token=

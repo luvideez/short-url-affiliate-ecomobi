@@ -1,0 +1,83 @@
+[12-Aug-2021 21:37:14 UTC] PHP Warning:  require_once(/home/vtvasiar/public_html/quanly/libs/linkity.php): failed to open stream: No such file or directory in /home/vtvasiar/public_html/quanly/urlshopeevnhd.php on line 8
+[12-Aug-2021 21:37:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vtvasiar/public_html/quanly/libs/linkity.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/vtvasiar/public_html/quanly/urlshopeevnhd.php on line 8
+[12-Aug-2021 21:37:37 UTC] PHP Warning:  require_once(/home/vtvasiar/public_html/quanly/libs/linkity.php): failed to open stream: No such file or directory in /home/vtvasiar/public_html/quanly/urlshopeevnhd.php on line 8
+[12-Aug-2021 21:37:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vtvasiar/public_html/quanly/libs/linkity.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/vtvasiar/public_html/quanly/urlshopeevnhd.php on line 8
+[12-Aug-2021 21:37:38 UTC] PHP Warning:  require_once(/home/vtvasiar/public_html/quanly/libs/linkity.php): failed to open stream: No such file or directory in /home/vtvasiar/public_html/quanly/urlshopeevnhd.php on line 8
+[12-Aug-2021 21:37:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vtvasiar/public_html/quanly/libs/linkity.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/vtvasiar/public_html/quanly/urlshopeevnhd.php on line 8
+[12-Aug-2021 21:39:01 UTC] PHP Warning:  require_once(/home/vtvasiar/public_html/quanly/libs/linkity.php): failed to open stream: No such file or directory in /home/vtvasiar/public_html/quanly/urlshopeevnhd.php on line 8
+[12-Aug-2021 21:39:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vtvasiar/public_html/quanly/libs/linkity.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/vtvasiar/public_html/quanly/urlshopeevnhd.php on line 8
+[12-Aug-2021 21:40:05 UTC] PHP Warning:  require_once(/home/vtvasiar/public_html/quanly/libs/linkity.php): failed to open stream: No such file or directory in /home/vtvasiar/public_html/quanly/urlquan.php on line 8
+[12-Aug-2021 21:40:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vtvasiar/public_html/quanly/libs/linkity.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/vtvasiar/public_html/quanly/urlquan.php on line 8
+[12-Aug-2021 21:41:26 UTC] PHP Warning:  require_once(/home/vtvasiar/public_html/quanly/libs/linkity.php): failed to open stream: No such file or directory in /home/vtvasiar/public_html/quanly/urlquan.php on line 8
+[12-Aug-2021 21:41:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vtvasiar/public_html/quanly/libs/linkity.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vtvasiar/public_html/quanly/urlquan.php on line 8
+[12-Aug-2021 21:41:34 UTC] PHP Warning:  require_once(/home/vtvasiar/public_html/quanly/libs/linkity.php): failed to open stream: No such file or directory in /home/vtvasiar/public_html/quanly/urlquan.php on line 8
+[12-Aug-2021 21:41:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vtvasiar/public_html/quanly/libs/linkity.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vtvasiar/public_html/quanly/urlquan.php on line 8
+[12-Aug-2021 21:43:31 UTC] PHP Warning:  require_once(/home/vtvasiar/public_html/user/libs/linkity.php): failed to open stream: No such file or directory in /home/vtvasiar/public_html/user/urlshopee-2555.php on line 8
+[12-Aug-2021 21:43:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vtvasiar/public_html/user/libs/linkity.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vtvasiar/public_html/user/urlshopee-2555.php on line 8
+[12-Aug-2021 21:43:41 UTC] PHP Warning:  require_once(/home/vtvasiar/public_html/user/libs/linkity.php): failed to open stream: No such file or directory in /home/vtvasiar/public_html/user/urlshopee-2555.php on line 8
+[12-Aug-2021 21:43:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vtvasiar/public_html/user/libs/linkity.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vtvasiar/public_html/user/urlshopee-2555.php on line 8
+[12-Aug-2021 21:45:09 UTC] PHP Warning:  require_once(/home/vtvasiar/public_html/user/libs/linkity.php): failed to open stream: No such file or directory in /home/vtvasiar/public_html/user/urlshopee-2555.php on line 8
+[12-Aug-2021 21:45:09 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vtvasiar/public_html/user/libs/linkity.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vtvasiar/public_html/user/urlshopee-2555.php on line 8
+[12-Aug-2021 21:45:21 UTC] PHP Warning:  require_once(/home/vtvasiar/public_html/user/libs/linkity.php): failed to open stream: No such file or directory in /home/vtvasiar/public_html/user/urlshopee-2555.php on line 8
+[12-Aug-2021 21:45:21 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/vtvasiar/public_html/user/libs/linkity.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vtvasiar/public_html/user/urlshopee-2555.php on line 8
+[12-Aug-2021 21:46:14 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[12-Aug-2021 21:46:14 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[12-Aug-2021 21:46:14 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/libs/linkity.php on line 665
+[12-Aug-2021 21:46:44 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[12-Aug-2021 21:46:44 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[12-Aug-2021 21:46:44 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/libs/linkity.php on line 665
+[12-Aug-2021 21:48:34 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[12-Aug-2021 21:48:34 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[12-Aug-2021 21:48:54 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[12-Aug-2021 21:48:54 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[12-Aug-2021 21:48:54 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/libs/linkity.php on line 665
+[13-Aug-2021 00:13:54 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[13-Aug-2021 00:13:54 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[13-Aug-2021 00:14:09 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[13-Aug-2021 00:14:09 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[13-Aug-2021 02:02:01 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[13-Aug-2021 02:02:01 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[13-Aug-2021 03:15:32 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[13-Aug-2021 03:15:32 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[13-Aug-2021 03:15:39 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[13-Aug-2021 03:15:39 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[13-Aug-2021 04:05:28 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[13-Aug-2021 04:05:28 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[13-Aug-2021 08:13:16 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/user/libs/linkity.php on line 712
+[13-Aug-2021 08:13:16 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/user/libs/linkity.php on line 715
+[13-Aug-2021 08:13:16 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[13-Aug-2021 08:33:12 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/user/libs/linkity.php on line 712
+[13-Aug-2021 08:33:12 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/user/libs/linkity.php on line 715
+[13-Aug-2021 08:33:12 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[13-Aug-2021 08:33:35 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/user/libs/linkity.php on line 712
+[13-Aug-2021 08:33:35 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/user/libs/linkity.php on line 715
+[13-Aug-2021 08:33:35 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[13-Aug-2021 08:34:16 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/user/libs/linkity.php on line 712
+[13-Aug-2021 08:34:16 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/user/libs/linkity.php on line 715
+[13-Aug-2021 08:34:16 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[13-Aug-2021 08:34:31 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/user/libs/linkity.php on line 712
+[13-Aug-2021 08:34:31 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/user/libs/linkity.php on line 715
+[13-Aug-2021 08:34:32 UTC] PHP Notice:  Undefined variable: url in /home/vtvasiar/public_html/user/libs/linkity.php on line 649
+[13-Aug-2021 08:34:32 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[13-Aug-2021 08:34:32 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[13-Aug-2021 08:35:24 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/user/libs/linkity.php on line 712
+[13-Aug-2021 08:35:24 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/user/libs/linkity.php on line 715
+[13-Aug-2021 08:35:25 UTC] PHP Notice:  Undefined variable: url in /home/vtvasiar/public_html/user/libs/linkity.php on line 649
+[13-Aug-2021 08:35:25 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[13-Aug-2021 08:35:25 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[24-Aug-2021 03:57:23 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/user/libs/linkity.php on line 712
+[24-Aug-2021 03:57:23 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/user/libs/linkity.php on line 715
+[24-Aug-2021 03:57:23 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[24-Aug-2021 03:57:52 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/user/libs/linkity.php on line 712
+[24-Aug-2021 03:57:52 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/user/libs/linkity.php on line 715
+[24-Aug-2021 03:57:52 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[24-Aug-2021 03:58:21 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/user/libs/linkity.php on line 712
+[24-Aug-2021 03:58:22 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/user/libs/linkity.php on line 715
+[24-Aug-2021 03:58:22 UTC] PHP Notice:  Undefined variable: url in /home/vtvasiar/public_html/user/libs/linkity.php on line 649
+[24-Aug-2021 03:58:22 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[24-Aug-2021 03:58:22 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[24-Aug-2021 03:58:33 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/user/libs/linkity.php on line 712
+[24-Aug-2021 03:58:33 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/user/libs/linkity.php on line 715
+[24-Aug-2021 03:58:33 UTC] PHP Notice:  Undefined variable: url in /home/vtvasiar/public_html/user/libs/linkity.php on line 649
+[24-Aug-2021 03:58:33 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665
+[24-Aug-2021 03:58:33 UTC] PHP Notice:  Undefined variable: id in /home/vtvasiar/public_html/user/libs/linkity.php on line 665

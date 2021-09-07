@@ -1,0 +1,44 @@
+[12-Aug-2021 21:48:02 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[12-Aug-2021 21:48:02 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[12-Aug-2021 21:48:02 UTC] PHP Notice:  Undefined index: disabled in /home/vtvasiar/public_html/libs/linkity.php on line 376
+[12-Aug-2021 21:48:03 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[12-Aug-2021 21:48:03 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[12-Aug-2021 21:48:03 UTC] PHP Notice:  Undefined index: disabled in /home/vtvasiar/public_html/libs/linkity.php on line 376
+[12-Aug-2021 21:48:03 UTC] PHP Notice:  Undefined index: since in /home/vtvasiar/public_html/admin/index.php on line 38
+[12-Aug-2021 21:48:03 UTC] PHP Notice:  Undefined index: till in /home/vtvasiar/public_html/admin/index.php on line 39
+[12-Aug-2021 21:48:03 UTC] PHP Notice:  Undefined offset: 0 in /home/vtvasiar/public_html/libs/linkity.php on line 263
+[12-Aug-2021 21:48:03 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/vtvasiar/public_html/libs/linkity.php on line 263
+[12-Aug-2021 21:48:03 UTC] PHP Notice:  Undefined offset: 0 in /home/vtvasiar/public_html/libs/linkity.php on line 264
+[12-Aug-2021 21:48:03 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/vtvasiar/public_html/libs/linkity.php on line 264
+[12-Aug-2021 21:48:10 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[12-Aug-2021 21:48:10 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[12-Aug-2021 21:48:10 UTC] PHP Notice:  Undefined index: disabled in /home/vtvasiar/public_html/libs/linkity.php on line 376
+[12-Aug-2021 21:48:10 UTC] PHP Notice:  Undefined index: search in /home/vtvasiar/public_html/admin/index.php on line 65
+[12-Aug-2021 21:48:10 UTC] PHP Notice:  Undefined index: skip in /home/vtvasiar/public_html/admin/index.php on line 67
+[12-Aug-2021 21:48:31 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[12-Aug-2021 21:48:31 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[12-Aug-2021 21:48:31 UTC] PHP Notice:  Undefined index: disabled in /home/vtvasiar/public_html/libs/linkity.php on line 376
+[12-Aug-2021 21:48:31 UTC] PHP Notice:  Undefined index: db in /home/vtvasiar/public_html/libs/linkity.php on line 426
+[12-Aug-2021 21:48:31 UTC] PHP Notice:  Undefined index: domain in /home/vtvasiar/public_html/libs/linkity.php on line 500
+[12-Aug-2021 21:48:31 UTC] PHP Notice:  Undefined index: path in /home/vtvasiar/public_html/libs/linkity.php on line 502
+[12-Aug-2021 21:48:44 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[12-Aug-2021 21:48:44 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[12-Aug-2021 21:48:44 UTC] PHP Notice:  Undefined index: disabled in /home/vtvasiar/public_html/libs/linkity.php on line 376
+[12-Aug-2021 21:48:44 UTC] PHP Notice:  Undefined index: since in /home/vtvasiar/public_html/admin/index.php on line 38
+[12-Aug-2021 21:48:44 UTC] PHP Notice:  Undefined index: till in /home/vtvasiar/public_html/admin/index.php on line 39
+[12-Aug-2021 21:48:44 UTC] PHP Notice:  Undefined offset: 0 in /home/vtvasiar/public_html/libs/linkity.php on line 263
+[12-Aug-2021 21:48:44 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/vtvasiar/public_html/libs/linkity.php on line 263
+[12-Aug-2021 21:48:44 UTC] PHP Notice:  Undefined offset: 0 in /home/vtvasiar/public_html/libs/linkity.php on line 264
+[12-Aug-2021 21:48:44 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/vtvasiar/public_html/libs/linkity.php on line 264
+[12-Aug-2021 21:48:46 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[12-Aug-2021 21:48:46 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[12-Aug-2021 21:48:46 UTC] PHP Notice:  Undefined index: disabled in /home/vtvasiar/public_html/libs/linkity.php on line 376
+[12-Aug-2021 21:48:47 UTC] PHP Notice:  Undefined index: HTTP_CF_VISITOR in /home/vtvasiar/public_html/libs/linkity.php on line 712
+[12-Aug-2021 21:48:47 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in /home/vtvasiar/public_html/libs/linkity.php on line 715
+[12-Aug-2021 21:48:47 UTC] PHP Notice:  Undefined index: disabled in /home/vtvasiar/public_html/libs/linkity.php on line 376
+[12-Aug-2021 21:48:47 UTC] PHP Notice:  Undefined index: since in /home/vtvasiar/public_html/admin/index.php on line 38
+[12-Aug-2021 21:48:47 UTC] PHP Notice:  Undefined index: till in /home/vtvasiar/public_html/admin/index.php on line 39
+[12-Aug-2021 21:48:47 UTC] PHP Notice:  Undefined offset: 0 in /home/vtvasiar/public_html/libs/linkity.php on line 263
+[12-Aug-2021 21:48:47 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/vtvasiar/public_html/libs/linkity.php on line 263
+[12-Aug-2021 21:48:47 UTC] PHP Notice:  Undefined offset: 0 in /home/vtvasiar/public_html/libs/linkity.php on line 264
+[12-Aug-2021 21:48:47 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/vtvasiar/public_html/libs/linkity.php on line 264
